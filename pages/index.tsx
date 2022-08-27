@@ -20,6 +20,9 @@ const Home: NextPage = () => {
         <h1>
           initial git push
         </h1>
+        <h1>
+          git push 2
+        </h1>
 
       </main>
 
